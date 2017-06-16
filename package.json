@@ -1,0 +1,21 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "2.2.0",
+    "koa-bodyparser": "2.2.0",
+    "koa-cors-error": "0.0.2",
+    "koa-route": "3.2.0",
+    "koa-router": "5.4.0",
+    "koa-send": "4.1.0",
+    "koa2-cors": "2.0.3"
+  }
+}
