@@ -4,6 +4,7 @@ This causes Chrome browser to retry POST requests (invisible in Dev-Tools networ
 Check this out by running the example (make sure you're running with Node 8.1.0):
 
 > npm i
+
 > npm start
 
 Then surf: http://localhost:9090
